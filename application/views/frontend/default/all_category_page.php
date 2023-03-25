@@ -19,7 +19,7 @@
                             <?php echo $sub_category_name; ?>
                         </li>
                     </ol>
-                </nav>
+                </nav> 
                 <h1 class="category-name">
                     <?php echo $sub_category_name; ?>
                 </h1>

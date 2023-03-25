@@ -20,7 +20,7 @@ FIRST Download
 
 6. Import dblms.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/Online_Learning_Management_System
+7.Run the script http://localhost/Training Program Management System
 
 
 **LOGIN DETAILS** 
@@ -30,6 +30,3 @@ for user create or student
 Admin
 user: admin@example.com
 pass: admin
-
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****

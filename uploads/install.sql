@@ -1081,7 +1081,7 @@ INSERT INTO `settings` (`id`, `key`, `value`) VALUES
 (19, 'author', 'Creativeitem'),
 (20, 'currency_position', 'left'),
 (21, 'website_description', 'Nice application'),
-(22, 'website_keywords', 'LMS,Learning Management System,Creativeitem,demo,hello,How are you'),
+(22, 'website_keywords', 'Training Program Management system'),
 (23, 'footer_text', NULL),
 (24, 'footer_link', 'http://creativeitem.com/'),
 (25, 'protocol', 'smtp'),

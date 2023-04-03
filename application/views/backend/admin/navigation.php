@@ -9,7 +9,7 @@
 			<?php
 			$admin_details = $this->user_model->get_all_user($this->session->userdata('user_id'))->row_array();
 			?>
-			<span class="leftbar-user-name"><?php echo $admin_details['first_name'].' '.$admin_details['last_name']; ?></span>
+			<span class="leftbar-user-name"><?php echo $admin_details['first_name']; ?></span>
 		</a>
 	</div>
 

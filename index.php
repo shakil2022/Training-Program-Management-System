@@ -27,7 +27,7 @@ switch (ENVIRONMENT) {
 
 
 $system_path = 'system';
-
+ 
 
 $application_folder = 'application';
 
@@ -60,11 +60,7 @@ if (!is_dir($system_path)) {
 	exit(3); // EXIT_CONFIG
 }
 
-/*
- * -------------------------------------------------------------------
- *  Now that we know the path, set the main path constants
- * -------------------------------------------------------------------
- */
+
 // The name of THIS file
 define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
 
